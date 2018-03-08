@@ -6,7 +6,7 @@
 
 该应用还有提醒功能，每隔一段时间都会提醒用户喝水。
 
-![]()
+![](https://github.com/TianjinGuannengTechonology/XGWater/blob/master/bg.png)
 
 ### Framework
 Center center server
